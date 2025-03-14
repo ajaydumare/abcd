@@ -1,6 +1,6 @@
 # Define the provider
 provider "aws" {
-  access_key = ""
+  access_key = "ad your access key"
 
   secret_key = ""
   region     = "us-west-2"  # Change the region as per your requirement
