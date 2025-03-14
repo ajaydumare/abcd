@@ -2,7 +2,7 @@
 provider "aws" {
   access_key = "ad your access key"
 
-  secret_key = ""
+  secret_key = "add your secreate access key"
   region     = "us-west-2"  # Change the region as per your requirement
 }
 
